@@ -73,4 +73,4 @@ The Power BI report represents the visualisation and reporting layer of the proj
             ↓
        Key Insights
 
-The accompanying analytical findings and recommendations are available in the `key_insights/` directory.
+The accompanying analytical findings and recommendations are available in the `key-insights/` directory.
