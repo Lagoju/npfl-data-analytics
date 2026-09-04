@@ -561,6 +561,7 @@ The Power BI report translates the analytical work into an interactive reporting
 ## Report Pages
 
 ### 1. NPFL League Overview
+![NPFL Data Analytics](images/1Overview.png)
 
 Provides a six-season overview of:
 
@@ -572,7 +573,7 @@ Provides a six-season overview of:
 - League competitiveness
 
 ### 2. Home Advantage & Club Performance
-
+![NPFL Data Analytics](images/2Club%20Performance.png)
 Examines:
 
 - Home vs away goals
@@ -582,7 +583,7 @@ Examines:
 - Overall match outcomes
 
 ### 3. Geography, Population & Club Success
-
+![NPFL Data Analytics](images/3Geography.png)
 Examines:
 
 - Population vs club PPG
@@ -591,7 +592,7 @@ Examines:
 - Club distribution by geopolitical zone
 
 ### 4. Competitiveness & Club Trends
-
+![NPFL Data Analytics](images/4League.png)
 Examines:
 
 - Competitiveness across seasons
@@ -600,7 +601,7 @@ Examines:
 - Sustained club success
 
 ### 5. Player Performance & Goal Contribution
-
+![NPFL Data Analytics](images/5Player.png)
 Examines:
 
 - Top goalscorers
@@ -609,7 +610,7 @@ Examines:
 - Goal contribution by position
 
 ### 6. Stadium & Match Environment
-
+![NPFL Data Analytics](images/6Stadium.png)
 Examines:
 
 - Most-used stadiums
@@ -997,7 +998,7 @@ Statistical relationships and model outputs should be interpreted within the lim
 
 # Author
 
-**[Your Name]**
+**Jonah Peter**
 
 Junior Data Analyst | Data Analytics | SQL | Python | Power BI
 
