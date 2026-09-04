@@ -2,7 +2,7 @@
 
 ## Analysing Geography, Population, Club Performance and League Competitiveness in the Nigerian Premier Football League
 
-![NPFL Data Analytics](images/NPFL_Dashboard_Overview.png)
+![NPFL Data Analytics](images/1Overview.png)
 
 ## Project Overview
 
